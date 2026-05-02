@@ -49,7 +49,14 @@ Se implementa un pipeline de cuatro etapas sobre la novela *Frankenstein*:
 │   ├── vectorization_meta.json    # Metadatos de representaciones
 │   ├── computational_costs.json   # Tiempos y memoria por método
 │   ├── analysis_results.json      # Similitudes, clusters, ini vs. fin
-│   └── results.db                 # SQLite: similitudes + clusters + costos
+│   ├── results.db                 # SQLite: similitudes + clusters + costos
+│   ├── cosine_heatmap_bow.png
+│   ├── cosine_heatmap_tfidf.png
+│   ├── cosine_heatmap_embeddings.png
+│   ├── pca_bow.png
+│   ├── pca_tfidf.png
+│   ├── pca_embeddings.png
+│   └── tsne_embeddings.png
 ├── parte1_ingesta.py
 ├── parte2_preprocesamiento.py
 ├── parte3_representaciones.py
