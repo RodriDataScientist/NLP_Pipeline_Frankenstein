@@ -1,0 +1,2046 @@
+[
+  {
+    "chapter_idx": 0,
+    "title": "Letter 1",
+    "token_count": 571,
+    "vocab_lemma": 468,
+    "vocab_porter": 448,
+    "vocab_snowball": 447,
+    "time_lemma_s": 0.001541,
+    "time_porter_s": 0.003322,
+    "time_snowball_s": 0.001678,
+    "sample_differences": [
+      {
+        "original": "mrs",
+        "lemma": "mr",
+        "porter": "mr",
+        "snowball": "mrs"
+      },
+      {
+        "original": "saville",
+        "lemma": "saville",
+        "porter": "savil",
+        "snowball": "savill"
+      },
+      {
+        "original": "rejoice",
+        "lemma": "rejoice",
+        "porter": "rejoic",
+        "snowball": "rejoic"
+      },
+      {
+        "original": "disaster",
+        "lemma": "disaster",
+        "porter": "disast",
+        "snowball": "disast"
+      },
+      {
+        "original": "accompanied",
+        "lemma": "accompanied",
+        "porter": "accompani",
+        "snowball": "accompani"
+      },
+      {
+        "original": "commencement",
+        "lemma": "commencement",
+        "porter": "commenc",
+        "snowball": "commenc"
+      },
+      {
+        "original": "enterprise",
+        "lemma": "enterprise",
+        "porter": "enterpris",
+        "snowball": "enterpris"
+      },
+      {
+        "original": "regarded",
+        "lemma": "regarded",
+        "porter": "regard",
+        "snowball": "regard"
+      },
+      {
+        "original": "forebodings",
+        "lemma": "foreboding",
+        "porter": "forebod",
+        "snowball": "forebod"
+      },
+      {
+        "original": "arrived",
+        "lemma": "arrived",
+        "porter": "arriv",
+        "snowball": "arriv"
+      }
+    ]
+  },
+  {
+    "chapter_idx": 1,
+    "title": "Letter 2",
+    "token_count": 592,
+    "vocab_lemma": 471,
+    "vocab_porter": 450,
+    "vocab_snowball": 450,
+    "time_lemma_s": 0.001242,
+    "time_porter_s": 0.003591,
+    "time_snowball_s": 0.002092,
+    "sample_differences": [
+      {
+        "original": "mrs",
+        "lemma": "mr",
+        "porter": "mr",
+        "snowball": "mrs"
+      },
+      {
+        "original": "saville",
+        "lemma": "saville",
+        "porter": "savil",
+        "snowball": "savill"
+      },
+      {
+        "original": "slowly",
+        "lemma": "slowly",
+        "porter": "slowli",
+        "snowball": "slowli"
+      },
+      {
+        "original": "encompassed",
+        "lemma": "encompassed",
+        "porter": "encompass",
+        "snowball": "encompass"
+      },
+      {
+        "original": "towards",
+        "lemma": "towards",
+        "porter": "toward",
+        "snowball": "toward"
+      },
+      {
+        "original": "enterprise",
+        "lemma": "enterprise",
+        "porter": "enterpris",
+        "snowball": "enterpris"
+      },
+      {
+        "original": "hired",
+        "lemma": "hired",
+        "porter": "hire",
+        "snowball": "hire"
+      },
+      {
+        "original": "occupied",
+        "lemma": "occupied",
+        "porter": "occupi",
+        "snowball": "occupi"
+      },
+      {
+        "original": "collecting",
+        "lemma": "collecting",
+        "porter": "collect",
+        "snowball": "collect"
+      },
+      {
+        "original": "already",
+        "lemma": "already",
+        "porter": "alreadi",
+        "snowball": "alreadi"
+      }
+    ]
+  },
+  {
+    "chapter_idx": 2,
+    "title": "Letter 3",
+    "token_count": 154,
+    "vocab_lemma": 137,
+    "vocab_porter": 135,
+    "vocab_snowball": 135,
+    "time_lemma_s": 0.000356,
+    "time_porter_s": 0.000921,
+    "time_snowball_s": 0.000446,
+    "sample_differences": [
+      {
+        "original": "mrs",
+        "lemma": "mr",
+        "porter": "mr",
+        "snowball": "mrs"
+      },
+      {
+        "original": "saville",
+        "lemma": "saville",
+        "porter": "savil",
+        "snowball": "savill"
+      },
+      {
+        "original": "july",
+        "lemma": "july",
+        "porter": "juli",
+        "snowball": "juli"
+      },
+      {
+        "original": "haste",
+        "lemma": "haste",
+        "porter": "hast",
+        "snowball": "hast"
+      },
+      {
+        "original": "advanced",
+        "lemma": "advanced",
+        "porter": "advanc",
+        "snowball": "advanc"
+      },
+      {
+        "original": "voyage",
+        "lemma": "voyage",
+        "porter": "voyag",
+        "snowball": "voyag"
+      },
+      {
+        "original": "voyage",
+        "lemma": "voyage",
+        "porter": "voyag",
+        "snowball": "voyag"
+      },
+      {
+        "original": "fortunate",
+        "lemma": "fortunate",
+        "porter": "fortun",
+        "snowball": "fortun"
+      },
+      {
+        "original": "native",
+        "lemma": "native",
+        "porter": "nativ",
+        "snowball": "nativ"
+      },
+      {
+        "original": "perhaps",
+        "lemma": "perhaps",
+        "porter": "perhap",
+        "snowball": "perhap"
+      }
+    ]
+  },
+  {
+    "chapter_idx": 3,
+    "title": "Letter 4",
+    "token_count": 1270,
+    "vocab_lemma": 815,
+    "vocab_porter": 734,
+    "vocab_snowball": 728,
+    "time_lemma_s": 0.002244,
+    "time_porter_s": 0.007991,
+    "time_snowball_s": 0.003891,
+    "sample_differences": [
+      {
+        "original": "mrs",
+        "lemma": "mr",
+        "porter": "mr",
+        "snowball": "mrs"
+      },
+      {
+        "original": "saville",
+        "lemma": "saville",
+        "porter": "savil",
+        "snowball": "savill"
+      },
+      {
+        "original": "strange",
+        "lemma": "strange",
+        "porter": "strang",
+        "snowball": "strang"
+      },
+      {
+        "original": "accident",
+        "lemma": "accident",
+        "porter": "accid",
+        "snowball": "accid"
+      },
+      {
+        "original": "happened",
+        "lemma": "happened",
+        "porter": "happen",
+        "snowball": "happen"
+      },
+      {
+        "original": "us",
+        "lemma": "u",
+        "porter": "us",
+        "snowball": "us"
+      },
+      {
+        "original": "recording",
+        "lemma": "recording",
+        "porter": "record",
+        "snowball": "record"
+      },
+      {
+        "original": "probable",
+        "lemma": "probable",
+        "porter": "probabl",
+        "snowball": "probabl"
+      },
+      {
+        "original": "possession",
+        "lemma": "possession",
+        "porter": "possess",
+        "snowball": "possess"
+      },
+      {
+        "original": "july",
+        "lemma": "july",
+        "porter": "juli",
+        "snowball": "juli"
+      }
+    ]
+  },
+  {
+    "chapter_idx": 4,
+    "title": "Chapter 1",
+    "token_count": 826,
+    "vocab_lemma": 625,
+    "vocab_porter": 580,
+    "vocab_snowball": 579,
+    "time_lemma_s": 0.001655,
+    "time_porter_s": 0.005374,
+    "time_snowball_s": 0.002401,
+    "sample_differences": [
+      {
+        "original": "genevese",
+        "lemma": "genevese",
+        "porter": "geneves",
+        "snowball": "geneves"
+      },
+      {
+        "original": "family",
+        "lemma": "family",
+        "porter": "famili",
+        "snowball": "famili"
+      },
+      {
+        "original": "distinguished",
+        "lemma": "distinguished",
+        "porter": "distinguish",
+        "snowball": "distinguish"
+      },
+      {
+        "original": "republic",
+        "lemma": "republic",
+        "porter": "republ",
+        "snowball": "republ"
+      },
+      {
+        "original": "many",
+        "lemma": "many",
+        "porter": "mani",
+        "snowball": "mani"
+      },
+      {
+        "original": "filled",
+        "lemma": "filled",
+        "porter": "fill",
+        "snowball": "fill"
+      },
+      {
+        "original": "several",
+        "lemma": "several",
+        "porter": "sever",
+        "snowball": "sever"
+      },
+      {
+        "original": "situations",
+        "lemma": "situation",
+        "porter": "situat",
+        "snowball": "situat"
+      },
+      {
+        "original": "reputation",
+        "lemma": "reputation",
+        "porter": "reput",
+        "snowball": "reput"
+      },
+      {
+        "original": "respected",
+        "lemma": "respected",
+        "porter": "respect",
+        "snowball": "respect"
+      }
+    ]
+  },
+  {
+    "chapter_idx": 5,
+    "title": "Chapter 2",
+    "token_count": 1052,
+    "vocab_lemma": 768,
+    "vocab_porter": 729,
+    "vocab_snowball": 724,
+    "time_lemma_s": 0.001922,
+    "time_porter_s": 0.006614,
+    "time_snowball_s": 0.003104,
+    "sample_differences": [
+      {
+        "original": "together",
+        "lemma": "together",
+        "porter": "togeth",
+        "snowball": "togeth"
+      },
+      {
+        "original": "quite",
+        "lemma": "quite",
+        "porter": "quit",
+        "snowball": "quit"
+      },
+      {
+        "original": "difference",
+        "lemma": "difference",
+        "porter": "differ",
+        "snowball": "differ"
+      },
+      {
+        "original": "species",
+        "lemma": "specie",
+        "porter": "speci",
+        "snowball": "speci"
+      },
+      {
+        "original": "dispute",
+        "lemma": "dispute",
+        "porter": "disput",
+        "snowball": "disput"
+      },
+      {
+        "original": "harmony",
+        "lemma": "harmony",
+        "porter": "harmoni",
+        "snowball": "harmoni"
+      },
+      {
+        "original": "diversity",
+        "lemma": "diversity",
+        "porter": "divers",
+        "snowball": "divers"
+      },
+      {
+        "original": "subsisted",
+        "lemma": "subsisted",
+        "porter": "subsist",
+        "snowball": "subsist"
+      },
+      {
+        "original": "characters",
+        "lemma": "character",
+        "porter": "charact",
+        "snowball": "charact"
+      },
+      {
+        "original": "us",
+        "lemma": "u",
+        "porter": "us",
+        "snowball": "us"
+      }
+    ]
+  },
+  {
+    "chapter_idx": 6,
+    "title": "Chapter 3",
+    "token_count": 1268,
+    "vocab_lemma": 813,
+    "vocab_porter": 749,
+    "vocab_snowball": 747,
+    "time_lemma_s": 0.002536,
+    "time_porter_s": 0.007721,
+    "time_snowball_s": 0.003719,
+    "sample_differences": [
+      {
+        "original": "attained",
+        "lemma": "attained",
+        "porter": "attain",
+        "snowball": "attain"
+      },
+      {
+        "original": "resolved",
+        "lemma": "resolved",
+        "porter": "resolv",
+        "snowball": "resolv"
+      },
+      {
+        "original": "become",
+        "lemma": "become",
+        "porter": "becom",
+        "snowball": "becom"
+      },
+      {
+        "original": "university",
+        "lemma": "university",
+        "porter": "univers",
+        "snowball": "univers"
+      },
+      {
+        "original": "attended",
+        "lemma": "attended",
+        "porter": "attend",
+        "snowball": "attend"
+      },
+      {
+        "original": "necessary",
+        "lemma": "necessary",
+        "porter": "necessari",
+        "snowball": "necessari"
+      },
+      {
+        "original": "completion",
+        "lemma": "completion",
+        "porter": "complet",
+        "snowball": "complet"
+      },
+      {
+        "original": "education",
+        "lemma": "education",
+        "porter": "educ",
+        "snowball": "educ"
+      },
+      {
+        "original": "acquainted",
+        "lemma": "acquainted",
+        "porter": "acquaint",
+        "snowball": "acquaint"
+      },
+      {
+        "original": "native",
+        "lemma": "native",
+        "porter": "nativ",
+        "snowball": "nativ"
+      }
+    ]
+  },
+  {
+    "chapter_idx": 7,
+    "title": "Chapter 4",
+    "token_count": 1183,
+    "vocab_lemma": 778,
+    "vocab_porter": 715,
+    "vocab_snowball": 712,
+    "time_lemma_s": 0.00257,
+    "time_porter_s": 0.007638,
+    "time_snowball_s": 0.003531,
+    "sample_differences": [
+      {
+        "original": "natural",
+        "lemma": "natural",
+        "porter": "natur",
+        "snowball": "natur"
+      },
+      {
+        "original": "philosophy",
+        "lemma": "philosophy",
+        "porter": "philosophi",
+        "snowball": "philosophi"
+      },
+      {
+        "original": "particularly",
+        "lemma": "particularly",
+        "porter": "particularli",
+        "snowball": "particular"
+      },
+      {
+        "original": "chemistry",
+        "lemma": "chemistry",
+        "porter": "chemistri",
+        "snowball": "chemistri"
+      },
+      {
+        "original": "comprehensive",
+        "lemma": "comprehensive",
+        "porter": "comprehens",
+        "snowball": "comprehens"
+      },
+      {
+        "original": "sense",
+        "lemma": "sense",
+        "porter": "sens",
+        "snowball": "sens"
+      },
+      {
+        "original": "became",
+        "lemma": "became",
+        "porter": "becam",
+        "snowball": "becam"
+      },
+      {
+        "original": "nearly",
+        "lemma": "nearly",
+        "porter": "nearli",
+        "snowball": "near"
+      },
+      {
+        "original": "occupation",
+        "lemma": "occupation",
+        "porter": "occup",
+        "snowball": "occup"
+      },
+      {
+        "original": "genius",
+        "lemma": "genius",
+        "porter": "geniu",
+        "snowball": "genius"
+      }
+    ]
+  },
+  {
+    "chapter_idx": 8,
+    "title": "Chapter 5",
+    "token_count": 1107,
+    "vocab_lemma": 723,
+    "vocab_porter": 666,
+    "vocab_snowball": 659,
+    "time_lemma_s": 0.002035,
+    "time_porter_s": 0.006855,
+    "time_snowball_s": 0.003604,
+    "sample_differences": [
+      {
+        "original": "dreary",
+        "lemma": "dreary",
+        "porter": "dreari",
+        "snowball": "dreari"
+      },
+      {
+        "original": "november",
+        "lemma": "november",
+        "porter": "novemb",
+        "snowball": "novemb"
+      },
+      {
+        "original": "accomplishment",
+        "lemma": "accomplishment",
+        "porter": "accomplish",
+        "snowball": "accomplish"
+      },
+      {
+        "original": "anxiety",
+        "lemma": "anxiety",
+        "porter": "anxieti",
+        "snowball": "anxieti"
+      },
+      {
+        "original": "amounted",
+        "lemma": "amounted",
+        "porter": "amount",
+        "snowball": "amount"
+      },
+      {
+        "original": "agony",
+        "lemma": "agony",
+        "porter": "agoni",
+        "snowball": "agoni"
+      },
+      {
+        "original": "collected",
+        "lemma": "collected",
+        "porter": "collect",
+        "snowball": "collect"
+      },
+      {
+        "original": "infuse",
+        "lemma": "infuse",
+        "porter": "infus",
+        "snowball": "infus"
+      },
+      {
+        "original": "feet",
+        "lemma": "foot",
+        "porter": "feet",
+        "snowball": "feet"
+      },
+      {
+        "original": "already",
+        "lemma": "already",
+        "porter": "alreadi",
+        "snowball": "alreadi"
+      }
+    ]
+  },
+  {
+    "chapter_idx": 9,
+    "title": "Chapter 6",
+    "token_count": 1320,
+    "vocab_lemma": 849,
+    "vocab_porter": 774,
+    "vocab_snowball": 771,
+    "time_lemma_s": 0.002543,
+    "time_porter_s": 0.008361,
+    "time_snowball_s": 0.004265,
+    "sample_differences": [
+      {
+        "original": "following",
+        "lemma": "following",
+        "porter": "follow",
+        "snowball": "follow"
+      },
+      {
+        "original": "henry",
+        "lemma": "henry",
+        "porter": "henri",
+        "snowball": "henri"
+      },
+      {
+        "original": "sufficient",
+        "lemma": "sufficient",
+        "porter": "suffici",
+        "snowball": "suffici"
+      },
+      {
+        "original": "reassure",
+        "lemma": "reassure",
+        "porter": "reassur",
+        "snowball": "reassur"
+      },
+      {
+        "original": "necessary",
+        "lemma": "necessary",
+        "porter": "necessari",
+        "snowball": "necessari"
+      },
+      {
+        "original": "apprehensions",
+        "lemma": "apprehension",
+        "porter": "apprehens",
+        "snowball": "apprehens"
+      },
+      {
+        "original": "persuasions",
+        "lemma": "persuasion",
+        "porter": "persuas",
+        "snowball": "persuas"
+      },
+      {
+        "original": "restrained",
+        "lemma": "restrained",
+        "porter": "restrain",
+        "snowball": "restrain"
+      },
+      {
+        "original": "uncle",
+        "lemma": "uncle",
+        "porter": "uncl",
+        "snowball": "uncl"
+      },
+      {
+        "original": "undertaking",
+        "lemma": "undertaking",
+        "porter": "undertak",
+        "snowball": "undertak"
+      }
+    ]
+  },
+  {
+    "chapter_idx": 10,
+    "title": "Chapter 7",
+    "token_count": 1766,
+    "vocab_lemma": 966,
+    "vocab_porter": 858,
+    "vocab_snowball": 849,
+    "time_lemma_s": 0.003389,
+    "time_porter_s": 0.010585,
+    "time_snowball_s": 0.005416,
+    "sample_differences": [
+      {
+        "original": "following",
+        "lemma": "following",
+        "porter": "follow",
+        "snowball": "follow"
+      },
+      {
+        "original": "probably",
+        "lemma": "probably",
+        "porter": "probabl",
+        "snowball": "probabl"
+      },
+      {
+        "original": "waited",
+        "lemma": "waited",
+        "porter": "wait",
+        "snowball": "wait"
+      },
+      {
+        "original": "impatiently",
+        "lemma": "impatiently",
+        "porter": "impati",
+        "snowball": "impati"
+      },
+      {
+        "original": "us",
+        "lemma": "u",
+        "porter": "us",
+        "snowball": "us"
+      },
+      {
+        "original": "tempted",
+        "lemma": "tempted",
+        "porter": "tempt",
+        "snowball": "tempt"
+      },
+      {
+        "original": "merely",
+        "lemma": "merely",
+        "porter": "mere",
+        "snowball": "mere"
+      },
+      {
+        "original": "mentioning",
+        "lemma": "mentioning",
+        "porter": "mention",
+        "snowball": "mention"
+      },
+      {
+        "original": "kindness",
+        "lemma": "kindness",
+        "porter": "kind",
+        "snowball": "kind"
+      },
+      {
+        "original": "surprise",
+        "lemma": "surprise",
+        "porter": "surpris",
+        "snowball": "surpris"
+      }
+    ]
+  },
+  {
+    "chapter_idx": 11,
+    "title": "Chapter 8",
+    "token_count": 1468,
+    "vocab_lemma": 803,
+    "vocab_porter": 716,
+    "vocab_snowball": 715,
+    "time_lemma_s": 0.003089,
+    "time_porter_s": 0.009294,
+    "time_snowball_s": 0.004495,
+    "sample_differences": [
+      {
+        "original": "passed",
+        "lemma": "passed",
+        "porter": "pass",
+        "snowball": "pass"
+      },
+      {
+        "original": "commence",
+        "lemma": "commence",
+        "porter": "commenc",
+        "snowball": "commenc"
+      },
+      {
+        "original": "family",
+        "lemma": "family",
+        "porter": "famili",
+        "snowball": "famili"
+      },
+      {
+        "original": "obliged",
+        "lemma": "obliged",
+        "porter": "oblig",
+        "snowball": "oblig"
+      },
+      {
+        "original": "witnesses",
+        "lemma": "witness",
+        "porter": "wit",
+        "snowball": "wit"
+      },
+      {
+        "original": "accompanied",
+        "lemma": "accompanied",
+        "porter": "accompani",
+        "snowball": "accompani"
+      },
+      {
+        "original": "wretched",
+        "lemma": "wretched",
+        "porter": "wretch",
+        "snowball": "wretch"
+      },
+      {
+        "original": "mockery",
+        "lemma": "mockery",
+        "porter": "mockeri",
+        "snowball": "mockeri"
+      },
+      {
+        "original": "justice",
+        "lemma": "justice",
+        "porter": "justic",
+        "snowball": "justic"
+      },
+      {
+        "original": "suffered",
+        "lemma": "suffered",
+        "porter": "suffer",
+        "snowball": "suffer"
+      }
+    ]
+  },
+  {
+    "chapter_idx": 12,
+    "title": "Chapter 9",
+    "token_count": 1043,
+    "vocab_lemma": 731,
+    "vocab_porter": 683,
+    "vocab_snowball": 677,
+    "time_lemma_s": 0.002241,
+    "time_porter_s": 0.006195,
+    "time_snowball_s": 0.003395,
+    "sample_differences": [
+      {
+        "original": "nothing",
+        "lemma": "nothing",
+        "porter": "noth",
+        "snowball": "noth"
+      },
+      {
+        "original": "painful",
+        "lemma": "painful",
+        "porter": "pain",
+        "snowball": "pain"
+      },
+      {
+        "original": "feelings",
+        "lemma": "feeling",
+        "porter": "feel",
+        "snowball": "feel"
+      },
+      {
+        "original": "worked",
+        "lemma": "worked",
+        "porter": "work",
+        "snowball": "work"
+      },
+      {
+        "original": "succession",
+        "lemma": "succession",
+        "porter": "success",
+        "snowball": "success"
+      },
+      {
+        "original": "calmness",
+        "lemma": "calmness",
+        "porter": "calm",
+        "snowball": "calm"
+      },
+      {
+        "original": "inaction",
+        "lemma": "inaction",
+        "porter": "inact",
+        "snowball": "inact"
+      },
+      {
+        "original": "certainty",
+        "lemma": "certainty",
+        "porter": "certainti",
+        "snowball": "certainti"
+      },
+      {
+        "original": "follows",
+        "lemma": "follows",
+        "porter": "follow",
+        "snowball": "follow"
+      },
+      {
+        "original": "deprives",
+        "lemma": "deprives",
+        "porter": "depriv",
+        "snowball": "depriv"
+      }
+    ]
+  },
+  {
+    "chapter_idx": 13,
+    "title": "Chapter 10",
+    "token_count": 1137,
+    "vocab_lemma": 745,
+    "vocab_porter": 688,
+    "vocab_snowball": 687,
+    "time_lemma_s": 0.0019,
+    "time_porter_s": 0.006938,
+    "time_snowball_s": 0.0033,
+    "sample_differences": [
+      {
+        "original": "following",
+        "lemma": "following",
+        "porter": "follow",
+        "snowball": "follow"
+      },
+      {
+        "original": "roaming",
+        "lemma": "roaming",
+        "porter": "roam",
+        "snowball": "roam"
+      },
+      {
+        "original": "beside",
+        "lemma": "beside",
+        "porter": "besid",
+        "snowball": "besid"
+      },
+      {
+        "original": "sources",
+        "lemma": "source",
+        "porter": "sourc",
+        "snowball": "sourc"
+      },
+      {
+        "original": "advancing",
+        "lemma": "advancing",
+        "porter": "advanc",
+        "snowball": "advanc"
+      },
+      {
+        "original": "barricade",
+        "lemma": "barricade",
+        "porter": "barricad",
+        "snowball": "barricad"
+      },
+      {
+        "original": "icy",
+        "lemma": "icy",
+        "porter": "ici",
+        "snowball": "ici"
+      },
+      {
+        "original": "shattered",
+        "lemma": "shattered",
+        "porter": "shatter",
+        "snowball": "shatter"
+      },
+      {
+        "original": "scattered",
+        "lemma": "scattered",
+        "porter": "scatter",
+        "snowball": "scatter"
+      },
+      {
+        "original": "silence",
+        "lemma": "silence",
+        "porter": "silenc",
+        "snowball": "silenc"
+      }
+    ]
+  },
+  {
+    "chapter_idx": 14,
+    "title": "Chapter 11",
+    "token_count": 1376,
+    "vocab_lemma": 757,
+    "vocab_porter": 684,
+    "vocab_snowball": 676,
+    "time_lemma_s": 0.002393,
+    "time_porter_s": 0.008692,
+    "time_snowball_s": 0.004443,
+    "sample_differences": [
+      {
+        "original": "considerable",
+        "lemma": "considerable",
+        "porter": "consider",
+        "snowball": "consider"
+      },
+      {
+        "original": "difficulty",
+        "lemma": "difficulty",
+        "porter": "difficulti",
+        "snowball": "difficulti"
+      },
+      {
+        "original": "remember",
+        "lemma": "remember",
+        "porter": "rememb",
+        "snowball": "rememb"
+      },
+      {
+        "original": "original",
+        "lemma": "original",
+        "porter": "origin",
+        "snowball": "origin"
+      },
+      {
+        "original": "confused",
+        "lemma": "confused",
+        "porter": "confus",
+        "snowball": "confus"
+      },
+      {
+        "original": "strange",
+        "lemma": "strange",
+        "porter": "strang",
+        "snowball": "strang"
+      },
+      {
+        "original": "multiplicity",
+        "lemma": "multiplicity",
+        "porter": "multipl",
+        "snowball": "multipl"
+      },
+      {
+        "original": "sensations",
+        "lemma": "sensation",
+        "porter": "sensat",
+        "snowball": "sensat"
+      },
+      {
+        "original": "seized",
+        "lemma": "seized",
+        "porter": "seiz",
+        "snowball": "seiz"
+      },
+      {
+        "original": "indeed",
+        "lemma": "indeed",
+        "porter": "inde",
+        "snowball": "inde"
+      }
+    ]
+  },
+  {
+    "chapter_idx": 15,
+    "title": "Chapter 12",
+    "token_count": 1002,
+    "vocab_lemma": 621,
+    "vocab_porter": 578,
+    "vocab_snowball": 576,
+    "time_lemma_s": 0.001859,
+    "time_porter_s": 0.006294,
+    "time_snowball_s": 0.003101,
+    "sample_differences": [
+      {
+        "original": "occurrences",
+        "lemma": "occurrence",
+        "porter": "occurr",
+        "snowball": "occurr"
+      },
+      {
+        "original": "chiefly",
+        "lemma": "chiefly",
+        "porter": "chiefli",
+        "snowball": "chiefli"
+      },
+      {
+        "original": "gentle",
+        "lemma": "gentle",
+        "porter": "gentl",
+        "snowball": "gentl"
+      },
+      {
+        "original": "people",
+        "lemma": "people",
+        "porter": "peopl",
+        "snowball": "peopl"
+      },
+      {
+        "original": "longed",
+        "lemma": "longed",
+        "porter": "long",
+        "snowball": "long"
+      },
+      {
+        "original": "dared",
+        "lemma": "dared",
+        "porter": "dare",
+        "snowball": "dare"
+      },
+      {
+        "original": "remembered",
+        "lemma": "remembered",
+        "porter": "rememb",
+        "snowball": "rememb"
+      },
+      {
+        "original": "suffered",
+        "lemma": "suffered",
+        "porter": "suffer",
+        "snowball": "suffer"
+      },
+      {
+        "original": "barbarous",
+        "lemma": "barbarous",
+        "porter": "barbar",
+        "snowball": "barbar"
+      },
+      {
+        "original": "villagers",
+        "lemma": "villager",
+        "porter": "villag",
+        "snowball": "villag"
+      }
+    ]
+  },
+  {
+    "chapter_idx": 16,
+    "title": "Chapter 13",
+    "token_count": 988,
+    "vocab_lemma": 633,
+    "vocab_porter": 598,
+    "vocab_snowball": 596,
+    "time_lemma_s": 0.001724,
+    "time_porter_s": 0.006099,
+    "time_snowball_s": 0.002952,
+    "sample_differences": [
+      {
+        "original": "moving",
+        "lemma": "moving",
+        "porter": "move",
+        "snowball": "move"
+      },
+      {
+        "original": "story",
+        "lemma": "story",
+        "porter": "stori",
+        "snowball": "stori"
+      },
+      {
+        "original": "relate",
+        "lemma": "relate",
+        "porter": "relat",
+        "snowball": "relat"
+      },
+      {
+        "original": "impressed",
+        "lemma": "impressed",
+        "porter": "impress",
+        "snowball": "impress"
+      },
+      {
+        "original": "feelings",
+        "lemma": "feeling",
+        "porter": "feel",
+        "snowball": "feel"
+      },
+      {
+        "original": "advanced",
+        "lemma": "advanced",
+        "porter": "advanc",
+        "snowball": "advanc"
+      },
+      {
+        "original": "rapidly",
+        "lemma": "rapidly",
+        "porter": "rapidli",
+        "snowball": "rapid"
+      },
+      {
+        "original": "became",
+        "lemma": "became",
+        "porter": "becam",
+        "snowball": "becam"
+      },
+      {
+        "original": "surprised",
+        "lemma": "surprised",
+        "porter": "surpris",
+        "snowball": "surpris"
+      },
+      {
+        "original": "gloomy",
+        "lemma": "gloomy",
+        "porter": "gloomi",
+        "snowball": "gloomi"
+      }
+    ]
+  },
+  {
+    "chapter_idx": 17,
+    "title": "Chapter 14",
+    "token_count": 859,
+    "vocab_lemma": 535,
+    "vocab_porter": 496,
+    "vocab_snowball": 494,
+    "time_lemma_s": 0.001562,
+    "time_porter_s": 0.005336,
+    "time_snowball_s": 0.002488,
+    "sample_differences": [
+      {
+        "original": "elapsed",
+        "lemma": "elapsed",
+        "porter": "elaps",
+        "snowball": "elaps"
+      },
+      {
+        "original": "learned",
+        "lemma": "learned",
+        "porter": "learn",
+        "snowball": "learn"
+      },
+      {
+        "original": "history",
+        "lemma": "history",
+        "porter": "histori",
+        "snowball": "histori"
+      },
+      {
+        "original": "deeply",
+        "lemma": "deeply",
+        "porter": "deepli",
+        "snowball": "deepli"
+      },
+      {
+        "original": "unfolding",
+        "lemma": "unfolding",
+        "porter": "unfold",
+        "snowball": "unfold"
+      },
+      {
+        "original": "circumstances",
+        "lemma": "circumstance",
+        "porter": "circumst",
+        "snowball": "circumst"
+      },
+      {
+        "original": "interesting",
+        "lemma": "interesting",
+        "porter": "interest",
+        "snowball": "interest"
+      },
+      {
+        "original": "wonderful",
+        "lemma": "wonderful",
+        "porter": "wonder",
+        "snowball": "wonder"
+      },
+      {
+        "original": "utterly",
+        "lemma": "utterly",
+        "porter": "utterli",
+        "snowball": "utter"
+      },
+      {
+        "original": "inexperienced",
+        "lemma": "inexperienced",
+        "porter": "inexperienc",
+        "snowball": "inexperienc"
+      }
+    ]
+  },
+  {
+    "chapter_idx": 18,
+    "title": "Chapter 15",
+    "token_count": 1485,
+    "vocab_lemma": 901,
+    "vocab_porter": 839,
+    "vocab_snowball": 836,
+    "time_lemma_s": 0.002619,
+    "time_porter_s": 0.008648,
+    "time_snowball_s": 0.004645,
+    "sample_differences": [
+      {
+        "original": "history",
+        "lemma": "history",
+        "porter": "histori",
+        "snowball": "histori"
+      },
+      {
+        "original": "beloved",
+        "lemma": "beloved",
+        "porter": "belov",
+        "snowball": "belov"
+      },
+      {
+        "original": "cottagers",
+        "lemma": "cottager",
+        "porter": "cottag",
+        "snowball": "cottag"
+      },
+      {
+        "original": "impressed",
+        "lemma": "impressed",
+        "porter": "impress",
+        "snowball": "impress"
+      },
+      {
+        "original": "deeply",
+        "lemma": "deeply",
+        "porter": "deepli",
+        "snowball": "deepli"
+      },
+      {
+        "original": "learned",
+        "lemma": "learned",
+        "porter": "learn",
+        "snowball": "learn"
+      },
+      {
+        "original": "developed",
+        "lemma": "developed",
+        "porter": "develop",
+        "snowball": "develop"
+      },
+      {
+        "original": "admire",
+        "lemma": "admire",
+        "porter": "admir",
+        "snowball": "admir"
+      },
+      {
+        "original": "virtues",
+        "lemma": "virtue",
+        "porter": "virtu",
+        "snowball": "virtu"
+      },
+      {
+        "original": "deprecate",
+        "lemma": "deprecate",
+        "porter": "deprec",
+        "snowball": "deprec"
+      }
+    ]
+  },
+  {
+    "chapter_idx": 19,
+    "title": "Chapter 16",
+    "token_count": 1498,
+    "vocab_lemma": 903,
+    "vocab_porter": 817,
+    "vocab_snowball": 812,
+    "time_lemma_s": 0.00271,
+    "time_porter_s": 0.009289,
+    "time_snowball_s": 0.004546,
+    "sample_differences": [
+      {
+        "original": "cursed",
+        "lemma": "cursed",
+        "porter": "curs",
+        "snowball": "curs"
+      },
+      {
+        "original": "cursed",
+        "lemma": "cursed",
+        "porter": "curs",
+        "snowball": "curs"
+      },
+      {
+        "original": "existence",
+        "lemma": "existence",
+        "porter": "exist",
+        "snowball": "exist"
+      },
+      {
+        "original": "wantonly",
+        "lemma": "wantonly",
+        "porter": "wantonli",
+        "snowball": "wanton"
+      },
+      {
+        "original": "bestowed",
+        "lemma": "bestowed",
+        "porter": "bestow",
+        "snowball": "bestow"
+      },
+      {
+        "original": "possession",
+        "lemma": "possession",
+        "porter": "possess",
+        "snowball": "possess"
+      },
+      {
+        "original": "feelings",
+        "lemma": "feeling",
+        "porter": "feel",
+        "snowball": "feel"
+      },
+      {
+        "original": "revenge",
+        "lemma": "revenge",
+        "porter": "reveng",
+        "snowball": "reveng"
+      },
+      {
+        "original": "pleasure",
+        "lemma": "pleasure",
+        "porter": "pleasur",
+        "snowball": "pleasur"
+      },
+      {
+        "original": "destroyed",
+        "lemma": "destroyed",
+        "porter": "destroy",
+        "snowball": "destroy"
+      }
+    ]
+  },
+  {
+    "chapter_idx": 20,
+    "title": "Chapter 17",
+    "token_count": 854,
+    "vocab_lemma": 544,
+    "vocab_porter": 506,
+    "vocab_snowball": 505,
+    "time_lemma_s": 0.001728,
+    "time_porter_s": 0.005081,
+    "time_snowball_s": 0.002449,
+    "sample_differences": [
+      {
+        "original": "finished",
+        "lemma": "finished",
+        "porter": "finish",
+        "snowball": "finish"
+      },
+      {
+        "original": "speaking",
+        "lemma": "speaking",
+        "porter": "speak",
+        "snowball": "speak"
+      },
+      {
+        "original": "fixed",
+        "lemma": "fixed",
+        "porter": "fix",
+        "snowball": "fix"
+      },
+      {
+        "original": "expectation",
+        "lemma": "expectation",
+        "porter": "expect",
+        "snowball": "expect"
+      },
+      {
+        "original": "reply",
+        "lemma": "reply",
+        "porter": "repli",
+        "snowball": "repli"
+      },
+      {
+        "original": "bewildered",
+        "lemma": "bewildered",
+        "porter": "bewild",
+        "snowball": "bewild"
+      },
+      {
+        "original": "perplexed",
+        "lemma": "perplexed",
+        "porter": "perplex",
+        "snowball": "perplex"
+      },
+      {
+        "original": "unable",
+        "lemma": "unable",
+        "porter": "unabl",
+        "snowball": "unabl"
+      },
+      {
+        "original": "arrange",
+        "lemma": "arrange",
+        "porter": "arrang",
+        "snowball": "arrang"
+      },
+      {
+        "original": "sufficiently",
+        "lemma": "sufficiently",
+        "porter": "suffici",
+        "snowball": "suffici"
+      }
+    ]
+  },
+  {
+    "chapter_idx": 21,
+    "title": "Chapter 18",
+    "token_count": 1370,
+    "vocab_lemma": 885,
+    "vocab_porter": 809,
+    "vocab_snowball": 808,
+    "time_lemma_s": 0.002525,
+    "time_porter_s": 0.00834,
+    "time_snowball_s": 0.004031,
+    "sample_differences": [
+      {
+        "original": "passed",
+        "lemma": "passed",
+        "porter": "pass",
+        "snowball": "pass"
+      },
+      {
+        "original": "courage",
+        "lemma": "courage",
+        "porter": "courag",
+        "snowball": "courag"
+      },
+      {
+        "original": "recommence",
+        "lemma": "recommence",
+        "porter": "recomm",
+        "snowball": "recomm"
+      },
+      {
+        "original": "feared",
+        "lemma": "feared",
+        "porter": "fear",
+        "snowball": "fear"
+      },
+      {
+        "original": "vengeance",
+        "lemma": "vengeance",
+        "porter": "vengeanc",
+        "snowball": "vengeanc"
+      },
+      {
+        "original": "disappointed",
+        "lemma": "disappointed",
+        "porter": "disappoint",
+        "snowball": "disappoint"
+      },
+      {
+        "original": "unable",
+        "lemma": "unable",
+        "porter": "unabl",
+        "snowball": "unabl"
+      },
+      {
+        "original": "overcome",
+        "lemma": "overcome",
+        "porter": "overcom",
+        "snowball": "overcom"
+      },
+      {
+        "original": "repugnance",
+        "lemma": "repugnance",
+        "porter": "repugn",
+        "snowball": "repugn"
+      },
+      {
+        "original": "enjoined",
+        "lemma": "enjoined",
+        "porter": "enjoin",
+        "snowball": "enjoin"
+      }
+    ]
+  },
+  {
+    "chapter_idx": 22,
+    "title": "Chapter 19",
+    "token_count": 1228,
+    "vocab_lemma": 822,
+    "vocab_porter": 753,
+    "vocab_snowball": 750,
+    "time_lemma_s": 0.002405,
+    "time_porter_s": 0.007602,
+    "time_snowball_s": 0.00374,
+    "sample_differences": [
+      {
+        "original": "determined",
+        "lemma": "determined",
+        "porter": "determin",
+        "snowball": "determin"
+      },
+      {
+        "original": "several",
+        "lemma": "several",
+        "porter": "sever",
+        "snowball": "sever"
+      },
+      {
+        "original": "wonderful",
+        "lemma": "wonderful",
+        "porter": "wonder",
+        "snowball": "wonder"
+      },
+      {
+        "original": "celebrated",
+        "lemma": "celebrated",
+        "porter": "celebr",
+        "snowball": "celebr"
+      },
+      {
+        "original": "city",
+        "lemma": "city",
+        "porter": "citi",
+        "snowball": "citi"
+      },
+      {
+        "original": "desired",
+        "lemma": "desired",
+        "porter": "desir",
+        "snowball": "desir"
+      },
+      {
+        "original": "intercourse",
+        "lemma": "intercourse",
+        "porter": "intercours",
+        "snowball": "intercours"
+      },
+      {
+        "original": "genius",
+        "lemma": "genius",
+        "porter": "geniu",
+        "snowball": "genius"
+      },
+      {
+        "original": "flourished",
+        "lemma": "flourished",
+        "porter": "flourish",
+        "snowball": "flourish"
+      },
+      {
+        "original": "secondary",
+        "lemma": "secondary",
+        "porter": "secondari",
+        "snowball": "secondari"
+      }
+    ]
+  },
+  {
+    "chapter_idx": 23,
+    "title": "Chapter 20",
+    "token_count": 1629,
+    "vocab_lemma": 965,
+    "vocab_porter": 881,
+    "vocab_snowball": 876,
+    "time_lemma_s": 0.003135,
+    "time_porter_s": 0.00996,
+    "time_snowball_s": 0.004779,
+    "sample_differences": [
+      {
+        "original": "evening",
+        "lemma": "evening",
+        "porter": "even",
+        "snowball": "even"
+      },
+      {
+        "original": "laboratory",
+        "lemma": "laboratory",
+        "porter": "laboratori",
+        "snowball": "laboratori"
+      },
+      {
+        "original": "rising",
+        "lemma": "rising",
+        "porter": "rise",
+        "snowball": "rise"
+      },
+      {
+        "original": "sufficient",
+        "lemma": "sufficient",
+        "porter": "suffici",
+        "snowball": "suffici"
+      },
+      {
+        "original": "employment",
+        "lemma": "employment",
+        "porter": "employ",
+        "snowball": "employ"
+      },
+      {
+        "original": "remained",
+        "lemma": "remained",
+        "porter": "remain",
+        "snowball": "remain"
+      },
+      {
+        "original": "idle",
+        "lemma": "idle",
+        "porter": "idl",
+        "snowball": "idl"
+      },
+      {
+        "original": "pause",
+        "lemma": "pause",
+        "porter": "paus",
+        "snowball": "paus"
+      },
+      {
+        "original": "consideration",
+        "lemma": "consideration",
+        "porter": "consider",
+        "snowball": "consider"
+      },
+      {
+        "original": "leave",
+        "lemma": "leave",
+        "porter": "leav",
+        "snowball": "leav"
+      }
+    ]
+  },
+  {
+    "chapter_idx": 24,
+    "title": "Chapter 21",
+    "token_count": 1733,
+    "vocab_lemma": 976,
+    "vocab_porter": 883,
+    "vocab_snowball": 880,
+    "time_lemma_s": 0.003209,
+    "time_porter_s": 0.010421,
+    "time_snowball_s": 0.0051,
+    "sample_differences": [
+      {
+        "original": "introduced",
+        "lemma": "introduced",
+        "porter": "introduc",
+        "snowball": "introduc"
+      },
+      {
+        "original": "presence",
+        "lemma": "presence",
+        "porter": "presenc",
+        "snowball": "presenc"
+      },
+      {
+        "original": "magistrate",
+        "lemma": "magistrate",
+        "porter": "magistr",
+        "snowball": "magistr"
+      },
+      {
+        "original": "benevolent",
+        "lemma": "benevolent",
+        "porter": "benevol",
+        "snowball": "benevol"
+      },
+      {
+        "original": "looked",
+        "lemma": "looked",
+        "porter": "look",
+        "snowball": "look"
+      },
+      {
+        "original": "however",
+        "lemma": "however",
+        "porter": "howev",
+        "snowball": "howev"
+      },
+      {
+        "original": "degree",
+        "lemma": "degree",
+        "porter": "degre",
+        "snowball": "degre"
+      },
+      {
+        "original": "severity",
+        "lemma": "severity",
+        "porter": "sever",
+        "snowball": "sever"
+      },
+      {
+        "original": "turning",
+        "lemma": "turning",
+        "porter": "turn",
+        "snowball": "turn"
+      },
+      {
+        "original": "towards",
+        "lemma": "towards",
+        "porter": "toward",
+        "snowball": "toward"
+      }
+    ]
+  },
+  {
+    "chapter_idx": 25,
+    "title": "Chapter 22",
+    "token_count": 1618,
+    "vocab_lemma": 932,
+    "vocab_porter": 859,
+    "vocab_snowball": 849,
+    "time_lemma_s": 0.002866,
+    "time_porter_s": 0.009886,
+    "time_snowball_s": 0.004621,
+    "sample_differences": [
+      {
+        "original": "voyage",
+        "lemma": "voyage",
+        "porter": "voyag",
+        "snowball": "voyag"
+      },
+      {
+        "original": "landed",
+        "lemma": "landed",
+        "porter": "land",
+        "snowball": "land"
+      },
+      {
+        "original": "proceeded",
+        "lemma": "proceeded",
+        "porter": "proceed",
+        "snowball": "proceed"
+      },
+      {
+        "original": "paris",
+        "lemma": "paris",
+        "porter": "pari",
+        "snowball": "pari"
+      },
+      {
+        "original": "overtaxed",
+        "lemma": "overtaxed",
+        "porter": "overtax",
+        "snowball": "overtax"
+      },
+      {
+        "original": "repose",
+        "lemma": "repose",
+        "porter": "repos",
+        "snowball": "repos"
+      },
+      {
+        "original": "continue",
+        "lemma": "continue",
+        "porter": "continu",
+        "snowball": "continu"
+      },
+      {
+        "original": "attentions",
+        "lemma": "attention",
+        "porter": "attent",
+        "snowball": "attent"
+      },
+      {
+        "original": "indefatigable",
+        "lemma": "indefatigable",
+        "porter": "indefatig",
+        "snowball": "indefatig"
+      },
+      {
+        "original": "sufferings",
+        "lemma": "suffering",
+        "porter": "suffer",
+        "snowball": "suffer"
+      }
+    ]
+  },
+  {
+    "chapter_idx": 26,
+    "title": "Chapter 23",
+    "token_count": 1177,
+    "vocab_lemma": 774,
+    "vocab_porter": 714,
+    "vocab_snowball": 709,
+    "time_lemma_s": 0.002242,
+    "time_porter_s": 0.007254,
+    "time_snowball_s": 0.003738,
+    "sample_differences": [
+      {
+        "original": "landed",
+        "lemma": "landed",
+        "porter": "land",
+        "snowball": "land"
+      },
+      {
+        "original": "walked",
+        "lemma": "walked",
+        "porter": "walk",
+        "snowball": "walk"
+      },
+      {
+        "original": "enjoying",
+        "lemma": "enjoying",
+        "porter": "enjoy",
+        "snowball": "enjoy"
+      },
+      {
+        "original": "transitory",
+        "lemma": "transitory",
+        "porter": "transitori",
+        "snowball": "transitori"
+      },
+      {
+        "original": "retired",
+        "lemma": "retired",
+        "porter": "retir",
+        "snowball": "retir"
+      },
+      {
+        "original": "contemplated",
+        "lemma": "contemplated",
+        "porter": "contempl",
+        "snowball": "contempl"
+      },
+      {
+        "original": "lovely",
+        "lemma": "lovely",
+        "porter": "love",
+        "snowball": "love"
+      },
+      {
+        "original": "obscured",
+        "lemma": "obscured",
+        "porter": "obscur",
+        "snowball": "obscur"
+      },
+      {
+        "original": "darkness",
+        "lemma": "darkness",
+        "porter": "dark",
+        "snowball": "dark"
+      },
+      {
+        "original": "displaying",
+        "lemma": "displaying",
+        "porter": "display",
+        "snowball": "display"
+      }
+    ]
+  },
+  {
+    "chapter_idx": 27,
+    "title": "Chapter 24",
+    "token_count": 3836,
+    "vocab_lemma": 1774,
+    "vocab_porter": 1530,
+    "vocab_snowball": 1517,
+    "time_lemma_s": 0.006722,
+    "time_porter_s": 0.023796,
+    "time_snowball_s": 0.011227,
+    "sample_differences": [
+      {
+        "original": "situation",
+        "lemma": "situation",
+        "porter": "situat",
+        "snowball": "situat"
+      },
+      {
+        "original": "voluntary",
+        "lemma": "voluntary",
+        "porter": "voluntari",
+        "snowball": "voluntari"
+      },
+      {
+        "original": "swallowed",
+        "lemma": "swallowed",
+        "porter": "swallow",
+        "snowball": "swallow"
+      },
+      {
+        "original": "hurried",
+        "lemma": "hurried",
+        "porter": "hurri",
+        "snowball": "hurri"
+      },
+      {
+        "original": "fury",
+        "lemma": "fury",
+        "porter": "furi",
+        "snowball": "furi"
+      },
+      {
+        "original": "revenge",
+        "lemma": "revenge",
+        "porter": "reveng",
+        "snowball": "reveng"
+      },
+      {
+        "original": "alone",
+        "lemma": "alone",
+        "porter": "alon",
+        "snowball": "alon"
+      },
+      {
+        "original": "endowed",
+        "lemma": "endowed",
+        "porter": "endow",
+        "snowball": "endow"
+      },
+      {
+        "original": "composure",
+        "lemma": "composure",
+        "porter": "composur",
+        "snowball": "composur"
+      },
+      {
+        "original": "moulded",
+        "lemma": "moulded",
+        "porter": "mould",
+        "snowball": "mould"
+      }
+    ]
+  }
+]

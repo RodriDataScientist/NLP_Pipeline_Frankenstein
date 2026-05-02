@@ -1,0 +1,566 @@
+{
+  "top_similar_bow": [
+    {
+      "chapter_a": "Chapter 18",
+      "chapter_b": "Chapter 22",
+      "idx_a": 21,
+      "idx_b": 25,
+      "similarity": 0.5804331568262238
+    },
+    {
+      "chapter_a": "Chapter 7",
+      "chapter_b": "Chapter 8",
+      "idx_a": 10,
+      "idx_b": 11,
+      "similarity": 0.5795260766338173
+    },
+    {
+      "chapter_a": "Chapter 22",
+      "chapter_b": "Chapter 24",
+      "idx_a": 25,
+      "idx_b": 27,
+      "similarity": 0.5696709685593393
+    },
+    {
+      "chapter_a": "Chapter 11",
+      "chapter_b": "Chapter 12",
+      "idx_a": 14,
+      "idx_b": 15,
+      "similarity": 0.5695925135850592
+    },
+    {
+      "chapter_a": "Letter 4",
+      "chapter_b": "Chapter 24",
+      "idx_a": 3,
+      "idx_b": 27,
+      "similarity": 0.5624984976107398
+    }
+  ],
+  "top_similar_tfidf": [
+    {
+      "chapter_a": "Chapter 7",
+      "chapter_b": "Chapter 8",
+      "idx_a": 10,
+      "idx_b": 11,
+      "similarity": 0.39523004879027035
+    },
+    {
+      "chapter_a": "Chapter 11",
+      "chapter_b": "Chapter 12",
+      "idx_a": 14,
+      "idx_b": 15,
+      "similarity": 0.39363343798801853
+    },
+    {
+      "chapter_a": "Letter 4",
+      "chapter_b": "Chapter 24",
+      "idx_a": 3,
+      "idx_b": 27,
+      "similarity": 0.389798166493748
+    },
+    {
+      "chapter_a": "Chapter 20",
+      "chapter_b": "Chapter 24",
+      "idx_a": 23,
+      "idx_b": 27,
+      "similarity": 0.3823733853490186
+    },
+    {
+      "chapter_a": "Chapter 22",
+      "chapter_b": "Chapter 24",
+      "idx_a": 25,
+      "idx_b": 27,
+      "similarity": 0.37014611335699643
+    }
+  ],
+  "top_similar_embeddings": [
+    {
+      "chapter_a": "Letter 1",
+      "chapter_b": "Letter 3",
+      "idx_a": 0,
+      "idx_b": 2,
+      "similarity": 0.8001728057861328
+    },
+    {
+      "chapter_a": "Letter 1",
+      "chapter_b": "Letter 2",
+      "idx_a": 0,
+      "idx_b": 1,
+      "similarity": 0.7492097616195679
+    },
+    {
+      "chapter_a": "Letter 2",
+      "chapter_b": "Letter 3",
+      "idx_a": 1,
+      "idx_b": 2,
+      "similarity": 0.748729407787323
+    },
+    {
+      "chapter_a": "Chapter 5",
+      "chapter_b": "Chapter 20",
+      "idx_a": 8,
+      "idx_b": 23,
+      "similarity": 0.7360678315162659
+    },
+    {
+      "chapter_a": "Letter 1",
+      "chapter_b": "Letter 4",
+      "idx_a": 0,
+      "idx_b": 3,
+      "similarity": 0.7309449911117554
+    }
+  ],
+  "clusters_bow": [
+    {
+      "chapter_idx": 0,
+      "title": "Letter 1",
+      "cluster": 0
+    },
+    {
+      "chapter_idx": 1,
+      "title": "Letter 2",
+      "cluster": 0
+    },
+    {
+      "chapter_idx": 2,
+      "title": "Letter 3",
+      "cluster": 0
+    },
+    {
+      "chapter_idx": 3,
+      "title": "Letter 4",
+      "cluster": 0
+    },
+    {
+      "chapter_idx": 4,
+      "title": "Chapter 1",
+      "cluster": 0
+    },
+    {
+      "chapter_idx": 5,
+      "title": "Chapter 2",
+      "cluster": 0
+    },
+    {
+      "chapter_idx": 6,
+      "title": "Chapter 3",
+      "cluster": 0
+    },
+    {
+      "chapter_idx": 7,
+      "title": "Chapter 4",
+      "cluster": 0
+    },
+    {
+      "chapter_idx": 8,
+      "title": "Chapter 5",
+      "cluster": 0
+    },
+    {
+      "chapter_idx": 9,
+      "title": "Chapter 6",
+      "cluster": 0
+    },
+    {
+      "chapter_idx": 10,
+      "title": "Chapter 7",
+      "cluster": 2
+    },
+    {
+      "chapter_idx": 11,
+      "title": "Chapter 8",
+      "cluster": 2
+    },
+    {
+      "chapter_idx": 12,
+      "title": "Chapter 9",
+      "cluster": 0
+    },
+    {
+      "chapter_idx": 13,
+      "title": "Chapter 10",
+      "cluster": 0
+    },
+    {
+      "chapter_idx": 14,
+      "title": "Chapter 11",
+      "cluster": 3
+    },
+    {
+      "chapter_idx": 15,
+      "title": "Chapter 12",
+      "cluster": 0
+    },
+    {
+      "chapter_idx": 16,
+      "title": "Chapter 13",
+      "cluster": 0
+    },
+    {
+      "chapter_idx": 17,
+      "title": "Chapter 14",
+      "cluster": 0
+    },
+    {
+      "chapter_idx": 18,
+      "title": "Chapter 15",
+      "cluster": 0
+    },
+    {
+      "chapter_idx": 19,
+      "title": "Chapter 16",
+      "cluster": 0
+    },
+    {
+      "chapter_idx": 20,
+      "title": "Chapter 17",
+      "cluster": 0
+    },
+    {
+      "chapter_idx": 21,
+      "title": "Chapter 18",
+      "cluster": 0
+    },
+    {
+      "chapter_idx": 22,
+      "title": "Chapter 19",
+      "cluster": 0
+    },
+    {
+      "chapter_idx": 23,
+      "title": "Chapter 20",
+      "cluster": 0
+    },
+    {
+      "chapter_idx": 24,
+      "title": "Chapter 21",
+      "cluster": 2
+    },
+    {
+      "chapter_idx": 25,
+      "title": "Chapter 22",
+      "cluster": 2
+    },
+    {
+      "chapter_idx": 26,
+      "title": "Chapter 23",
+      "cluster": 0
+    },
+    {
+      "chapter_idx": 27,
+      "title": "Chapter 24",
+      "cluster": 1
+    }
+  ],
+  "clusters_tfidf": [
+    {
+      "chapter_idx": 0,
+      "title": "Letter 1",
+      "cluster": 0
+    },
+    {
+      "chapter_idx": 1,
+      "title": "Letter 2",
+      "cluster": 0
+    },
+    {
+      "chapter_idx": 2,
+      "title": "Letter 3",
+      "cluster": 0
+    },
+    {
+      "chapter_idx": 3,
+      "title": "Letter 4",
+      "cluster": 0
+    },
+    {
+      "chapter_idx": 4,
+      "title": "Chapter 1",
+      "cluster": 1
+    },
+    {
+      "chapter_idx": 5,
+      "title": "Chapter 2",
+      "cluster": 2
+    },
+    {
+      "chapter_idx": 6,
+      "title": "Chapter 3",
+      "cluster": 2
+    },
+    {
+      "chapter_idx": 7,
+      "title": "Chapter 4",
+      "cluster": 2
+    },
+    {
+      "chapter_idx": 8,
+      "title": "Chapter 5",
+      "cluster": 1
+    },
+    {
+      "chapter_idx": 9,
+      "title": "Chapter 6",
+      "cluster": 1
+    },
+    {
+      "chapter_idx": 10,
+      "title": "Chapter 7",
+      "cluster": 1
+    },
+    {
+      "chapter_idx": 11,
+      "title": "Chapter 8",
+      "cluster": 1
+    },
+    {
+      "chapter_idx": 12,
+      "title": "Chapter 9",
+      "cluster": 1
+    },
+    {
+      "chapter_idx": 13,
+      "title": "Chapter 10",
+      "cluster": 0
+    },
+    {
+      "chapter_idx": 14,
+      "title": "Chapter 11",
+      "cluster": 3
+    },
+    {
+      "chapter_idx": 15,
+      "title": "Chapter 12",
+      "cluster": 3
+    },
+    {
+      "chapter_idx": 16,
+      "title": "Chapter 13",
+      "cluster": 3
+    },
+    {
+      "chapter_idx": 17,
+      "title": "Chapter 14",
+      "cluster": 3
+    },
+    {
+      "chapter_idx": 18,
+      "title": "Chapter 15",
+      "cluster": 3
+    },
+    {
+      "chapter_idx": 19,
+      "title": "Chapter 16",
+      "cluster": 3
+    },
+    {
+      "chapter_idx": 20,
+      "title": "Chapter 17",
+      "cluster": 1
+    },
+    {
+      "chapter_idx": 21,
+      "title": "Chapter 18",
+      "cluster": 1
+    },
+    {
+      "chapter_idx": 22,
+      "title": "Chapter 19",
+      "cluster": 1
+    },
+    {
+      "chapter_idx": 23,
+      "title": "Chapter 20",
+      "cluster": 1
+    },
+    {
+      "chapter_idx": 24,
+      "title": "Chapter 21",
+      "cluster": 1
+    },
+    {
+      "chapter_idx": 25,
+      "title": "Chapter 22",
+      "cluster": 1
+    },
+    {
+      "chapter_idx": 26,
+      "title": "Chapter 23",
+      "cluster": 1
+    },
+    {
+      "chapter_idx": 27,
+      "title": "Chapter 24",
+      "cluster": 0
+    }
+  ],
+  "clusters_embeddings": [
+    {
+      "chapter_idx": 0,
+      "title": "Letter 1",
+      "cluster": 1
+    },
+    {
+      "chapter_idx": 1,
+      "title": "Letter 2",
+      "cluster": 1
+    },
+    {
+      "chapter_idx": 2,
+      "title": "Letter 3",
+      "cluster": 1
+    },
+    {
+      "chapter_idx": 3,
+      "title": "Letter 4",
+      "cluster": 1
+    },
+    {
+      "chapter_idx": 4,
+      "title": "Chapter 1",
+      "cluster": 0
+    },
+    {
+      "chapter_idx": 5,
+      "title": "Chapter 2",
+      "cluster": 0
+    },
+    {
+      "chapter_idx": 6,
+      "title": "Chapter 3",
+      "cluster": 2
+    },
+    {
+      "chapter_idx": 7,
+      "title": "Chapter 4",
+      "cluster": 2
+    },
+    {
+      "chapter_idx": 8,
+      "title": "Chapter 5",
+      "cluster": 3
+    },
+    {
+      "chapter_idx": 9,
+      "title": "Chapter 6",
+      "cluster": 1
+    },
+    {
+      "chapter_idx": 10,
+      "title": "Chapter 7",
+      "cluster": 1
+    },
+    {
+      "chapter_idx": 11,
+      "title": "Chapter 8",
+      "cluster": 3
+    },
+    {
+      "chapter_idx": 12,
+      "title": "Chapter 9",
+      "cluster": 3
+    },
+    {
+      "chapter_idx": 13,
+      "title": "Chapter 10",
+      "cluster": 3
+    },
+    {
+      "chapter_idx": 14,
+      "title": "Chapter 11",
+      "cluster": 3
+    },
+    {
+      "chapter_idx": 15,
+      "title": "Chapter 12",
+      "cluster": 3
+    },
+    {
+      "chapter_idx": 16,
+      "title": "Chapter 13",
+      "cluster": 3
+    },
+    {
+      "chapter_idx": 17,
+      "title": "Chapter 14",
+      "cluster": 0
+    },
+    {
+      "chapter_idx": 18,
+      "title": "Chapter 15",
+      "cluster": 3
+    },
+    {
+      "chapter_idx": 19,
+      "title": "Chapter 16",
+      "cluster": 3
+    },
+    {
+      "chapter_idx": 20,
+      "title": "Chapter 17",
+      "cluster": 3
+    },
+    {
+      "chapter_idx": 21,
+      "title": "Chapter 18",
+      "cluster": 2
+    },
+    {
+      "chapter_idx": 22,
+      "title": "Chapter 19",
+      "cluster": 2
+    },
+    {
+      "chapter_idx": 23,
+      "title": "Chapter 20",
+      "cluster": 3
+    },
+    {
+      "chapter_idx": 24,
+      "title": "Chapter 21",
+      "cluster": 3
+    },
+    {
+      "chapter_idx": 25,
+      "title": "Chapter 22",
+      "cluster": 2
+    },
+    {
+      "chapter_idx": 26,
+      "title": "Chapter 23",
+      "cluster": 3
+    },
+    {
+      "chapter_idx": 27,
+      "title": "Chapter 24",
+      "cluster": 2
+    }
+  ],
+  "initial_vs_final": {
+    "initial_chapters": [
+      "Letter 1",
+      "Letter 2",
+      "Letter 3"
+    ],
+    "final_chapters": [
+      "Chapter 22",
+      "Chapter 23",
+      "Chapter 24"
+    ],
+    "bow": {
+      "intra_initial": 0.2813,
+      "intra_final": 0.5131,
+      "inter_initial_final": 0.2875
+    },
+    "tfidf": {
+      "intra_initial": 0.1557,
+      "intra_final": 0.3294,
+      "inter_initial_final": 0.1473
+    },
+    "embeddings": {
+      "intra_initial": 0.765999972820282,
+      "intra_final": 0.47600001096725464,
+      "inter_initial_final": 0.41499999165534973
+    }
+  }
+}

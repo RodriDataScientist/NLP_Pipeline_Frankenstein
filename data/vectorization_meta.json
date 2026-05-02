@@ -1,0 +1,99 @@
+{
+  "titles": [
+    "Letter 1",
+    "Letter 2",
+    "Letter 3",
+    "Letter 4",
+    "Chapter 1",
+    "Chapter 2",
+    "Chapter 3",
+    "Chapter 4",
+    "Chapter 5",
+    "Chapter 6",
+    "Chapter 7",
+    "Chapter 8",
+    "Chapter 9",
+    "Chapter 10",
+    "Chapter 11",
+    "Chapter 12",
+    "Chapter 13",
+    "Chapter 14",
+    "Chapter 15",
+    "Chapter 16",
+    "Chapter 17",
+    "Chapter 18",
+    "Chapter 19",
+    "Chapter 20",
+    "Chapter 21",
+    "Chapter 22",
+    "Chapter 23",
+    "Chapter 24"
+  ],
+  "n_chapters": 28,
+  "bow": {
+    "npz_file": "data/bow_matrix.npz",
+    "shape": [
+      28,
+      6371
+    ],
+    "feature_names_sample": [
+      "11th",
+      "12th",
+      "13th",
+      "17",
+      "18th",
+      "19th",
+      "26th",
+      "27th",
+      "28th",
+      "2d",
+      "31st",
+      "5th",
+      "7th",
+      "9th",
+      "abandon",
+      "abandoned",
+      "abbey",
+      "abhor",
+      "abhorred",
+      "abhorrence"
+    ]
+  },
+  "tfidf": {
+    "npz_file": "data/tfidf_matrix.npz",
+    "shape": [
+      28,
+      6371
+    ],
+    "feature_names_sample": [
+      "11th",
+      "12th",
+      "13th",
+      "17",
+      "18th",
+      "19th",
+      "26th",
+      "27th",
+      "28th",
+      "2d",
+      "31st",
+      "5th",
+      "7th",
+      "9th",
+      "abandon",
+      "abandoned",
+      "abbey",
+      "abhor",
+      "abhorred",
+      "abhorrence"
+    ]
+  },
+  "embeddings": {
+    "npz_file": "data/embeddings_matrix.npz",
+    "shape": [
+      28,
+      768
+    ],
+    "model": "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"
+  }
+}
